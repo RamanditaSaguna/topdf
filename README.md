@@ -260,14 +260,7 @@ Jika Anda ingin berkontribusi pada proyek ini:
 
 Proyek ini dibuat untuk tujuan pembelajaran dan dapat digunakan secara bebas untuk keperluan edukasi.
 
-## 👨‍💻 Developer
-
-Dikembangkan dengan ❤️ untuk memudahkan pengelolaan data pendaftaran siswa di SMK Digital dengan fitur **export PDF yang profesional**.
-
----
-
-### 📞 Support
-
-Jika Anda mengalami masalah dengan fitur PDF export atau fitur lainnya, silakan buat issue di repository ini.
+![photo1](list.png)
+![photo2](pdf.png)
 
 **Happy Coding & Happy PDF Generation! 🚀📄**
